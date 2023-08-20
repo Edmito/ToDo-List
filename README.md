@@ -51,4 +51,4 @@ Isso iniciará o servidor de desenvolvimento e abrirá a aplicação em seu nave
 - **Remover Tarefas:** Clique no botão de X ao lado de uma tarefa para removê-la da lista.
 - **Filtrar por Descrição:** Utilize o componente de filtro para exibir apenas as tarefas que contêm determinada descrição.
 - **Ordenar Ascendente/Descendente:** Clique nos botões de ordenação para reorganizar as tarefas em ordem alfabética.
-- **Completar Tarefas:** Clique no botão de Cpompletar para Completar ou voltar ao estado de Incomplemta.
+- **Completar Tarefas:** Clique no botão de Completar para Completar ou voltar ao estado de Incomplemta.
