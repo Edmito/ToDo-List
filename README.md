@@ -41,7 +41,7 @@ O projeto possui a seguinte estrutura de diretórios e arquivos:
 Após configurar o projeto e instalar as dependências, você pode executar a aplicação usando o seguinte comando:
 
 ```bash
-npm start
+npm run dev
 ```
 Isso iniciará o servidor de desenvolvimento e abrirá a aplicação em seu navegador padrão. Agora você pode interagir com a lista de tarefas!
 
