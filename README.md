@@ -1,6 +1,6 @@
 # Lista de Tarefas em React - Projeto para Iniciantes
 
-Este projeto é voltado para iniciantes que desejam aprender a construir uma aplicação web simples usando a biblioteca React. Neste projeto, você criará uma lista de tarefas interativa, permitindo adicionar, remover, filtrar, ordenar tarefas e completá-las.
+Este é um projeto iniciante para aprender a construir uma aplicação web simples usando a biblioteca React. Neste projeto, você terá uma lista de tarefas interativa, permitindo adicionar, remover, filtrar, ordenar tarefas e completá-las.
 
 ## Pré-requisitos
 
